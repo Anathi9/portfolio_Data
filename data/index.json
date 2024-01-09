@@ -1,17 +1,4 @@
 {
-    "jobTitle": [
-        {
-            "title": "An aspiring full-stack Developer"
-            
-        }
-       
-        
-    ],
-    "about": [
-         " I am Anathi Josefu am an aspiring full-stack Developer",
-        " I am eager to leverage my knowledge and experience as an aspiring full-stack developer with a strong focus on reliability,communication and a willigness to take any challenges."
-
-    ],
     "education": [
         {
             "id": 1,
@@ -50,6 +37,10 @@
         {
             "title": "CSS",
             "description": "I am proficient in CSS."
+        },
+        {
+            "title": "Bootstrap",
+            "description": "I am proficient in Bootstrapgg."
         },
         {
             "title": "Javascript",
