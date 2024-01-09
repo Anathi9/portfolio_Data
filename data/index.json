@@ -1,24 +1,23 @@
 {
     "jobTitle": [
         {
-            "title": "Education Assistant",
-            "date":  "01-11-20 to 25-09-22",
-            "company": "Noxolo xauka Primary school",
-            "color": "rgb(57, 153, 0)"
+            "title": "An aspiring full-stack Developer"
+            
         }
        
         
     ],
     "about": [
-        "Hi, I am Anathi Josefu am an aspiring full-stack Developer",
-        "I am a young woman who is passionate about programming. I want to make peole's job more easier and productive."
+         " I am Anathi Josefu am an aspiring full-stack Developer",
+        " I am eager to leverage my knowledge and experience as an aspiring full-stack developer with a strong focus on reliability,communication and a willigness to take any challenges."
+
     ],
     "education": [
         {
             "id": 1,
             "year": 2023,
-            "description": "I got my certificates on Data science",
-            "place": "currently still a student at Life Choices Academy"
+            "description": "current a student ",
+            "place": " Life Choices Academy"
            
            
         },
@@ -45,43 +44,43 @@
     ],
     "skills": [
         {
-            "title": "Web Development",
-            "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript. I am still building applications using the mentioned technologies."
+            "title": "HTML",
+            "description": " I am proficient in HTML."
         },
         {
-            "title": "Database",
-            "experience": "I've have been working on different types of databases since 2009, both SQL-structured and document-based. I enjoy working on a database; for me, that is where the magic happens. A well-structured database is the result of data integrity and many more."
+            "title": "CSS",
+            "description": "I am proficient in CSS."
         },
         {
-            "title": "API",
-            "experience": "In case we want to secure, identify, and authorize access to a user on a specific resource, we need to have an API, which is a glue between the front end and back end. We can set up a lot of features or logic, such as middleware, database configuration, JSON web tokens, and many more. For the past 7 years, I have been working on APIs using Django and ExpressJS."
+            "title": "Javascript",
+            "description": "I."
         }
        
     ],
     "testimonials": [
         {
-            "name": "Siseko",
-            "surname": "Nonyongo",
-            "quotes": "Joel never ceases to amaze me with the vast amount of knowledge he has acquired over the years in software development. He is truly a great mentor.",
-            "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
+            "name": "Taryn-lee",
+            "surname": "Walbrugh",
+            "quotes": "Anathi Josefu is a beautiful person with an exceptional personality, she is extremely intelligent and has so much ambition for what she does.",
+            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQdGyFiDPpMGqQA27CLSo9jNCXaL6bpado3FyFOLAJKi1Xrt54bLeZL_BMP1mDoy4I0f8AkDalYE9j2dfGbeWab3rOmpQ=w1960-h4196"
         },
         {
             "name": "Mzwamadoda",
             "surname": "Louw",
-            "quotes": "Joel is a nice person. Someone who is really reliable and honest always does his work and makes sure everything is well organized.",
-            "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
+            "quotes": "Anathi Josefu  is hardworking person dedicated to her work and she enjoys solving challenges, Anathi goes above and beyond her duties and she is the go to person for problem solving also attention to detail.",
+            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRKLCE0xjJSV5K2pp1iIhxq7VEfTogqUp9ZQztFyBK52miQ0Dc2h-ytoB-6TmgPMia3oHMSdDchjd2FI4r8YFoPsJuQPw=w600-h1284"
         },
         {
-            "name": "Joel",
-            "surname": "Mukunya",
-            "quotes": "Joel Tshimanga Mukunya is an incredibly humble intellectual. He is an outstanding lecturer who consistently finds effective ways to ensure that everyone comprehends the content. Additionally, he has a delightful personality, making him a joy to be around.",
-            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+            "name": "Sivuyisiwe",
+            "surname": "Peter",
+            "quotes": "Anathi Josefu is a very intelligent young lady who always strives for the best despite facing challenges. She is the true definition of persistence pays off.",
+            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSQjcFGCLFlgh7P7gnx7gz4bGUognO0UXwjZ9zLewu6AQ4__vN9lFv1kk_kJPKjmlmpTrqrWSPKnyeoYkvd7IFbJOSK4g=w1960-h4196" 
         },
         {
-            "name": "Dr. Godwin P",
-            "surname": "Dzvapatsva",
-            "quotes": "I am thrilled to share my heartfelt testimonial for Joel, a remarkable former co-worker and lecturer. Joel worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies. However, what truly sets Joel apart is his exceptional teaching skills. He has a natural talent for breaking down complex concepts into easily digestible bits, making the learning process enjoyable and engaging. Joel's patience and willingness to go the extra mile to ensure every student grasps the material are truly commendable. I consider myself fortunate to have learned from him, and I wholeheartedly recommend him as an outstanding educator.",
-            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+            "name": "Nathalie",
+            "surname": "Willemse",
+            "quotes": "Anathi Josefu is kind-hearted person, she always willing to help other people to achieve their goaals. She is a hard worker and she is friendly .",
+            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTKvC_lrZycayfQIlJYANYDo08cx-0iBHPq80kV2lhgWVO7oTo_4a92zNw0oNdqwnFzuaUHXOibMSSz3Tw05SvlmN3Hyw=w1960-h4196"
         }
     ],
     "projects":[
@@ -94,27 +93,27 @@
         },
         {
             "name": "Calculator",
-            "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
+            "description": "I built it using HTML 5, CSS and javascript. .",
             "image": "https://i.postimg.cc/vH8q91JB/reg-Exp-Calculator.png",
             "gitHub": "https://github.com/codjoelmayer/regExpCalculator.git",
             "netlify": "https://regexpcalculator.netlify.app/"
         },
         {
-            "name": "Message believers Circle",
+            "name": "Keyboard",
             "description": "MBC is an application I built for my client for selling products online. I make use of Vue3 JS, MySQL, APIs, and JSON Web Tokens.",
             "image": "https://i.postimg.cc/k4tqF1Ln/message-Believer-Circle.png",
             "gitHub": "https://github.com/codjoelmayer/messageBelieversCircle.git",
             "netlify": "https://messagebelieverscircle-3491d.web.app/"
         },
         {
-            "name": "JT Laptop",
+            "name": "Netlify",
             "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
             "image": "https://i.postimg.cc/g2YVCx3R/JTLaptop.png",
             "gitHub": "https://github.com/codjoelmayer/JTLaptops.git",
             "netlify": "https://jtlaptops.netlify.app/"
         },
         {
-            "name": "JS Portfolio",
+            "name": "js",
             "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
             "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
             "gitHub": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git",
