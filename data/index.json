@@ -3,7 +3,7 @@
         {
             "id": 1,
             "year": 2023,
-            "description": "current a student ",
+            "description":  " I'm currently a student ",
             "place": " Life Choices Academy"
            
            
@@ -13,13 +13,13 @@
             "year": 2017,
             "description": "I got my National certificate",
             "place": "Harry Gwala sss",
-            "type": "certificate"
+            "type": "National certificate"
             
         },
         {
             "id": 3,
             "year": 2018,
-            "description": "I got my N2 certificate",
+            "description": "I got my N2 Electrical Engineering certificate",
             "place": "Northlink College"
             
            
