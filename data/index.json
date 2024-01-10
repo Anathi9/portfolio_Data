@@ -32,21 +32,29 @@
     "skills": [
         {
             "title": "HTML",
+            "Image": "https://i.postimg.cc/WpnKHrtX/download-3-Html.png",
             "description": " I am proficient in HTML."
         },
         {
             "title": "CSS",
+            "Image": "https://i.postimg.cc/mkDSqP65/download-4-css.jpg",
             "description": "I am proficient in CSS."
         },
         {
             "title": "Bootstrap",
-            "description": "I am proficient in Bootstrapgg."
+            "Image": "https://i.postimg.cc/cJSBW9bY/download-4-Bootstrap.jpg",
+            "description": "I am proficient in Bootstrap."
         },
         {
             "title": "Javascript",
-            "description": "I."
+            "Image": "https://i.postimg.cc/6QcnX9RJ/download-3-javascript.png",
+            "description": "I am proficient in Javascript."
+        },
+        {
+            "title": "Vue.js",
+            "Image": "https://i.postimg.cc/PxNpn1TY/download-3-vue.png",
+            "description": "I am proficient in Javascript."
         }
-       
     ],
     "testimonials": [
         {
@@ -72,43 +80,62 @@
             "surname": "Willemse",
             "quotes": "Anathi Josefu is kind-hearted person, she always willing to help other people to achieve their goaals. She is a hard worker and she is friendly .",
             "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTKvC_lrZycayfQIlJYANYDo08cx-0iBHPq80kV2lhgWVO7oTo_4a92zNw0oNdqwnFzuaUHXOibMSSz3Tw05SvlmN3Hyw=w1960-h4196"
+        },
+        {
+            "name": "Siseko",
+            "surname": "Nonyongo",
+            "quotes": "Anathi Josefu is call and humble person ,she communicates well with other people and she always willing to help other people to achieve their goaals.  .",
+            "profile": "https://lh3.google.com/u/0/drive-viewer/AEYmBYRQ5BUjI08vcO7X66PErepPy0lMc_qKsR3GSCZt5FKJBlN4K4osAq8nA4ecku7vkaXme4Fm3mn-eiX4pNc8iAPaM_BmCw=w600-h1284"
+        },
+        {
+            "name": "Sisipho",
+            "surname": "Mafrika",
+            "quotes": "Anathi Josefu is kind-hearted person,consistent and She is a hard worker.",
+            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQz0uQcWf2S_p7ioSCvYN_aJZxF31D0TygiGd4-RsxxX64eYr0kNfTQnCYfavw-XcBrdkuoOvz0SO6TNJAAKN_zSGM2_g=w600-h1284"
         }
     ],
     "projects":[
         {
             "name": "To-do List",
-            "description": "I built this application using HTML 5, CSS, and Javascript.",
-            "image": "https://i.postimg.cc/tTF7RMr1/todoList.png",
-            "gitHub": "https://github.com/codjoelmayer/todoApp_js.git",
+            "description": "I built this To do list using HTML 5, CSS, and Javascript.",
+            "image": "https://i.postimg.cc/BZrNSBtq/download-3-To-do-list.png",
+            "gitHub": "https://github.com/Anathi9/To-Do-List.git",
             "netlify": "https://joel-todo-list.netlify.app/"
         },
         {
             "name": "Calculator",
-            "description": "I built it using HTML 5, CSS and javascript. .",
-            "image": "https://i.postimg.cc/vH8q91JB/reg-Exp-Calculator.png",
-            "gitHub": "https://github.com/codjoelmayer/regExpCalculator.git",
+            "description": "I built this calculator using HTML 5, CSS and javascript. .",
+            "image": "https://i.postimg.cc/6QbLDdDx/download-4-calculator.jpg",
+            "gitHub": "https://github.com/Anathi9/Javascript-calculator.git",
             "netlify": "https://regexpcalculator.netlify.app/"
         },
         {
             "name": "Keyboard",
-            "description": "MBC is an application I built for my client for selling products online. I make use of Vue3 JS, MySQL, APIs, and JSON Web Tokens.",
-            "image": "https://i.postimg.cc/k4tqF1Ln/message-Believer-Circle.png",
-            "gitHub": "https://github.com/codjoelmayer/messageBelieversCircle.git",
-            "netlify": "https://messagebelieverscircle-3491d.web.app/"
+            "description": "I built this keyboard using html and css.",
+            "image": "https://i.postimg.cc/Fz3ydw1h/download-4-keyboard.jpg",
+            "gitHub": "https://github.com/Anathi9/keyboardExample.git",
+            "netlify": ""
         },
         {
-            "name": "Netlify",
-            "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
-            "image": "https://i.postimg.cc/g2YVCx3R/JTLaptop.png",
-            "gitHub": "https://github.com/codjoelmayer/JTLaptops.git",
-            "netlify": "https://jtlaptops.netlify.app/"
+            "name": "Netflix",
+            "description": " I built this website using HTML , CSS, Javascript, and Bootstrap5",
+            "image": "https://lh3.google.com/u/0/drive-viewer/AEYmBYSczLROEBCMKAQfCGhzMdZ2nOa8fpHdDDf114a-1RhmNswc4k0gxgSbHgagwboKDOzUYEwkScw3M2QqRmMZAw8i43AXIQ=w600-h1284",
+            "gitHub": "https://github.com/Anathi9/Netflix1.git",
+            "netlify": ""
         },
         {
-            "name": "js",
-            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
-            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
-            "gitHub": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git",
-            "netlify": "https://joeljsportfolio.netlify.app/"
+            "name": "BMI",
+            "description": "I built this Bmi using HTML, CSS, Bootstrap, and Javascript.",
+            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRcnN6eDrl-sjLraHruml_74s4mP1PIXGPzDlXEvG41Frr2gksy0n87oARS6BzLLLLggSdI6HOaoD-LP_cEmLI-Ah2q=w600-h1284",
+            "gitHub": "https://github.com/Anathi9/BMI.git",
+            "netlify": ""
+        },
+        {
+            "name": "Temperature conveter",
+            "description": "I built this Temperature using HTML , CSS, and Javascript.",
+            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQlUuKxa6xvxrJYev2a829dOe4vA80TDACD47ju0juEdCH8hPAWNTKJV_YWBMWLeMngncpe6dhitOZoNAK1cCbibhS_=w600-h1284",
+            "gitHub": "https://github.com/Anathi9/Temperature-conveter.git",
+            "netlify": ""
         }
     ]
 }
