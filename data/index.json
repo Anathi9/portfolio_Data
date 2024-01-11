@@ -93,7 +93,7 @@
         {
             "name": "To-do List",
             "description": "I built this To do list using HTML 5, CSS, and Javascript.",
-            "image": "https://i.postimg.cc/BZrNSBtq/download-3-To-do-list.png",
+            "image": "https://i.postimg.cc/4xhKt6yW/Screenshot-2024-01-11-124158.png",
             "gitHub": "https://github.com/Anathi9/To-Do-List.git",
             "netlify": "https://thunderous-malabi-72e5ab.netlify.app"
         },
@@ -112,11 +112,11 @@
             "netlify": "https://anathi-keyboard.netlify.app/"
         },
         {
-            "name": "Netflix",
+            "name": "Ecommerce",
             "description": " I built this website using HTML , CSS, Javascript, and Bootstrap5",
-            "image": "https://lh3.google.com/u/0/drive-viewer/AEYmBYSczLROEBCMKAQfCGhzMdZ2nOa8fpHdDDf114a-1RhmNswc4k0gxgSbHgagwboKDOzUYEwkScw3M2QqRmMZAw8i43AXIQ=w600-h1284",
-            "gitHub": "https://github.com/Anathi9/Netflix1.git",
-            "netlify": ""
+            "image":"https://i.postimg.cc/4xhKt6yW/Screenshot-2024-01-11-124158.png",
+            "gitHub": "https://github.com/Anathi9/ecommerce1.git",
+            "netlify": "https://i.postimg.cc/4xhKt6yW/Screenshot-2024-01-11-124158.png"
         },
         {
             "name": "BMI",
