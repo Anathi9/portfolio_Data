@@ -1,25 +1,25 @@
 {
     "education": [
-        {
+        { 
             "id": 1,
             "year": 2023,
-            "description":  " I'm currently a student ",
+            "description":  " I'm currently a student at Life Choices Academy. The academy has given me the pportunity to upskill. ",
             "place": " Life Choices Academy"
            
            
         },
         {
             "id": 2,
-            "year": 2017,
-            "description": "I have National certificate",
-            "place": "Harry Gwala sss",
-            "type": "National certificate"
+            "year": 2023,
+            "description": "At Cotelligence I've gained software basics. An academy based in Cape flats offering software development skills",
+            "place": "CodeTelligennce Academy"
+            
             
         },
         {
             "id": 3,
-            "year": 2018,
-            "description": " N2 Electrical Engineering certificate",
+            "year": 2017,
+            "description": " I have studied at Harry Gwala s.s.s and I passed my grade 12",
             "place": "Northlink College"
             
            
