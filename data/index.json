@@ -49,11 +49,6 @@
             "title": "Javascript",
             "Image": "https://i.postimg.cc/6QcnX9RJ/download-3-javascript.png",
             "description": "I am proficient in Javascript."
-        },
-        {
-            "title": "Vue.js",
-            "Image": "https://i.postimg.cc/PxNpn1TY/download-3-vue.png",
-            "description": "I am proficient in Javascript."
         }
     ],
     "testimonials": [
@@ -100,21 +95,21 @@
             "description": "I built this To do list using HTML 5, CSS, and Javascript.",
             "image": "https://i.postimg.cc/BZrNSBtq/download-3-To-do-list.png",
             "gitHub": "https://github.com/Anathi9/To-Do-List.git",
-            "netlify": "https://joel-todo-list.netlify.app/"
+            "netlify": "https://thunderous-malabi-72e5ab.netlify.app"
         },
         {
             "name": "Calculator",
-            "description": "I built this calculator using HTML 5, CSS and javascript. .",
-            "image": "https://i.postimg.cc/6QbLDdDx/download-4-calculator.jpg",
+            "description": "I built this calculator using HTML 5, CSS and javascript .",
+            "image": "https://i.postimg.cc/TYXcNPM2/Screenshot-2024-01-11-125155.png",
             "gitHub": "https://github.com/Anathi9/Javascript-calculator.git",
-            "netlify": "https://regexpcalculator.netlify.app/"
+            "netlify": "https://jazzy-entremet-06cbbe.netlify.app/"
         },
         {
             "name": "Keyboard",
             "description": "I built this keyboard using html and css.",
-            "image": "https://i.postimg.cc/Fz3ydw1h/download-4-keyboard.jpg",
+            "image": "https://i.postimg.cc/CMc2WD7M/Screenshot-2024-01-11-124402.png",
             "gitHub": "https://github.com/Anathi9/keyboardExample.git",
-            "netlify": ""
+            "netlify": "https://anathi-keyboard.netlify.app/"
         },
         {
             "name": "Netflix",
@@ -126,16 +121,16 @@
         {
             "name": "BMI",
             "description": "I built this Bmi using HTML, CSS, Bootstrap, and Javascript.",
-            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRcnN6eDrl-sjLraHruml_74s4mP1PIXGPzDlXEvG41Frr2gksy0n87oARS6BzLLLLggSdI6HOaoD-LP_cEmLI-Ah2q=w600-h1284",
+            "image": "https://i.postimg.cc/854ryThc/Screenshot-2024-01-11-125847.png",
             "gitHub": "https://github.com/Anathi9/BMI.git",
-            "netlify": ""
+            "netlify": "https://resilient-cobbler-30688b.netlify.app"
         },
         {
             "name": "Temperature conveter",
             "description": "I built this Temperature using HTML , CSS, and Javascript.",
-            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQlUuKxa6xvxrJYev2a829dOe4vA80TDACD47ju0juEdCH8hPAWNTKJV_YWBMWLeMngncpe6dhitOZoNAK1cCbibhS_=w600-h1284",
+            "image": "https://i.postimg.cc/C5dpW4fD/Screenshot-2024-01-11-122317.png",
             "gitHub": "https://github.com/Anathi9/Temperature-conveter.git",
-            "netlify": ""
+            "netlify": "https://bejewelled-lolly-6f4b25.netlify.app"
         }
     ]
 }
