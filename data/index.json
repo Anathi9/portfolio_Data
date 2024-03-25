@@ -43,11 +43,7 @@
             "Image": "https://i.postimg.cc/mkDSqP65/download-4-css.jpg",
             "description": "I am proficient in CSS."
         },
-        {
-            "title": "Bootstrap",
-            "Image": "https://i.postimg.cc/cJSBW9bY/download-4-Bootstrap.jpg",
-            "description": "I am proficient in Bootstrap."
-        },
+       
         {
             "title": "Javascript",
             "Image": "https://i.postimg.cc/6QcnX9RJ/download-3-javascript.png",
