@@ -5,7 +5,7 @@
             "year": 2023,
             "description":  " I'm currently a student at Life Choices Academy. The academy has given me the opportunity to upskill. ",
             "place": " Life Choices Academy",
-            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRVsxmKbbCQq58BbYb5MgwMh1taXdbY3OuduQ_Bu_bvGhvrXkWjzbWgkcxgRmCcmQOanouXNAJNV9I-6afuPopkYigKeg=w600-h1284"
+            "image": "https://i.ibb.co/WKGdnTF/download-3-lifechoices.png"
            
            
         },
@@ -14,7 +14,7 @@
             "year": 2023,
             "description": "At Cotelligence I've studied from 14-01-23 to 30-06-23& I've gained software basics. Its an academy based in Cape flats offering software development skills ",
             "place": "CodeTelligence Academy",
-            "image": "https://lh3.google.com/u/0/drive-viewer/AEYmBYRhxVnUZp-TFMJ4vtAurXguukqmy1ijrtZafMmrqUeO1zCLxyQdu_zMlUyai6ILqhUkK-a768KTWu-VkbaJ18ffVWk7Yw=w600-h1284"
+            "image": "https://i.ibb.co/sC4pm5g/download-4-code.jpg"
             
             
         },
@@ -23,8 +23,8 @@
             "year": 2017,
             "description": " I have studied at Harry Gwala Secondary School from 2013 to 2017 and I passed my grade 12 my majors were Physics,Life science & Geography.",
             "place": "Harry Gwala s.s.s",
-            "image": "https://lh3.google.com/u/0/drive-viewer/AEYmBYSo6HqLfTCRW6xBHuAabctdY8ouzrbjk2YDv6C0DVPk0n2D4PCb7nPh3BychI_mFe5lOKHxeMBXECf4fTj-LW4lWQweYg=w600-h1284"
-            
+            "image": "https://i.ibb.co/RTLdPG5/download-logo-hg.jpg"
+        
            
         }
        
@@ -36,7 +36,7 @@
         {
             "title": "HTML",
             "Image": "https://i.postimg.cc/WpnKHrtX/download-3-Html.png",
-            "description": " I am proficient in HTML."
+            "description": "I am proficient in HTML."
         },
         {
             "title": "CSS",
@@ -111,7 +111,7 @@
         {
             "name": "To-do List",
             "description": "I built this To do list using HTML 5, CSS, and Javascript.",
-            "image": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRy7rBXNJgTSyXumS9Lm2hLc5NsYfNaZFw4YWz2TkEfjC6FBQu2nomwGKqIB53JOQ-19WBppypTIUelw-gP-Czlkhi4uQ=w600-h1284",
+            "image": "https://i.ibb.co/YZ9R5My/Screenshot-2024-01-11-133523.png",
             "gitHub": "https://github.com/Anathi9/To-Do-List.git",
             "netlify": "https://thunderous-malabi-72e5ab.netlify.app"
         },
@@ -125,14 +125,14 @@
         {
             "name": "Keyboard",
             "description": "I built this keyboard using html and css.",
-            "image": "https://lh3.google.com/u/0/drive-viewer/AEYmBYQuyqMTfrT06zmuH3_VbouOl8i1BJRZygLOiqZOzMh2ByDKKyhXUn67nSl-MMn6AxMQKarG--DLpmafOp1MhWJLFBo83g=w600-h1284",
+            "image": "https://i.ibb.co/c26jjNb/Screenshot-2024-01-11-133558.png",
             "gitHub": "https://github.com/Anathi9/keyboardExample.git",
             "netlify": "https://anathi-keyboard.netlify.app/"
         },
         {
             "name": "Netflix",
             "description": " I built this website using HTML , CSS, Javascript, and Bootstrap5",
-            "image":"https://lh3.google.com/u/0/drive-viewer/AEYmBYS0bXZ9Yja7IMvKdp1Iqyk-pgzOSOeWtuFLNI6YIFAHKfeNsUaS8HAfz2Wo-CU6VMg3pvd_g1WmsgvdL-tY0AN9f9zgmA=w600-h1284",
+            "image":"https://i.ibb.co/qyqbpmr/download-3-netflix.png",
             "gitHub": "https://github.com/Anathi9/Netflix1.git",
             "netlify": "https://stellar-croquembouche-00f605.netlify.app"
         },
