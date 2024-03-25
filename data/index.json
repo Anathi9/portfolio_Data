@@ -52,6 +52,21 @@
             "title": "Javascript",
             "Image": "https://i.postimg.cc/6QcnX9RJ/download-3-javascript.png",
             "description": "I am intermediate in Javascript."
+        },
+         {
+            "title": "Vue.JS",
+            "Image": "https://i.ibb.co/vwhHp8J/1-WNPicrz6-DJegizpj4-VY58-Q.jpg",
+            "description": "I am proficient in Vue.JS."
+        },
+          {
+            "title": "MySQL",
+            "Image": "https://i.ibb.co/P1QL3bd/download-9.jpg",
+            "description": "I am proficient in MySQL."
+        },
+          {
+            "title": "Node.JS",
+            "Image": "https://i.ibb.co/JH1YGMF/download-10.jpg",
+            "description": "I am proficient in node.js."
         }
     ],
     "testimonials": [
@@ -59,37 +74,37 @@
             "name": "Taryn-lee",
             "surname": "Walbrugh",
             "quotes": "Anathi Josefu is a beautiful person with an exceptional personality, she is extremely intelligent and has so much ambition for what she does.",
-            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQdGyFiDPpMGqQA27CLSo9jNCXaL6bpado3FyFOLAJKi1Xrt54bLeZL_BMP1mDoy4I0f8AkDalYE9j2dfGbeWab3rOmpQ=w1960-h4196"
+            "profile": "https://i.ibb.co/Y8RRjWg/20231022-161301-3-1.jpg"
         },
         {
             "name": "Mzwamadoda",
             "surname": "Louw",
             "quotes": "Anathi Josefu  is hardworking person dedicated to her work and she enjoys solving challenges, Anathi goes above and beyond her duties and she is the go to person for problem solving also attention to detail.",
-            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRKLCE0xjJSV5K2pp1iIhxq7VEfTogqUp9ZQztFyBK52miQ0Dc2h-ytoB-6TmgPMia3oHMSdDchjd2FI4r8YFoPsJuQPw=w600-h1284"
+            "profile": "https://i.ibb.co/NKTPrtR/mzwa.jpg"
         },
         {
             "name": "Sivuyisiwe",
             "surname": "Peter",
             "quotes": "Anathi Josefu is a very intelligent young lady who always strives for the best despite facing challenges. She is the true definition of persistence pays off.",
-            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYSQjcFGCLFlgh7P7gnx7gz4bGUognO0UXwjZ9zLewu6AQ4__vN9lFv1kk_kJPKjmlmpTrqrWSPKnyeoYkvd7IFbJOSK4g=w1960-h4196" 
+            "profile": ""https://i.ibb.co/T0FvHcr/1000094544-1.jpg" 
         },
         {
             "name": "Nathalie",
             "surname": "Willemse",
             "quotes": "Anathi Josefu is kind-hearted person, she always willing to help other people to achieve their goaals. She is a hard worker and she is friendly .",
-            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTKvC_lrZycayfQIlJYANYDo08cx-0iBHPq80kV2lhgWVO7oTo_4a92zNw0oNdqwnFzuaUHXOibMSSz3Tw05SvlmN3Hyw=w1960-h4196"
+            "profile": "https://i.ibb.co/DRfKyjw/Snapchat-558663554-1.jpg"
         },
         {
             "name": "Siseko",
             "surname": "Nonyongo",
             "quotes": "Anathi Josefu is kind and humble person ,she communicates well with other people and she always willing to help other people to achieve their goals.  .",
-            "profile": "https://lh3.google.com/u/0/drive-viewer/AEYmBYRQ5BUjI08vcO7X66PErepPy0lMc_qKsR3GSCZt5FKJBlN4K4osAq8nA4ecku7vkaXme4Fm3mn-eiX4pNc8iAPaM_BmCw=w600-h1284"
+            "profile": "https://i.ibb.co/4S5Y743/178387048-1863360767156238-70019032027000302-n-removebg-preview-1.png"
         },
         {
             "name": "Sisipho",
             "surname": "Mafrika",
             "quotes": "Anathi Josefu is kind-hearted person,consistent and She is a hard worker.",
-            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQz0uQcWf2S_p7ioSCvYN_aJZxF31D0TygiGd4-RsxxX64eYr0kNfTQnCYfavw-XcBrdkuoOvz0SO6TNJAAKN_zSGM2_g=w600-h1284"
+            "profile": "https://i.ibb.co/bWmyBMz/IMG-7811-1.jpg"
         }
     ],
     "projects":[
