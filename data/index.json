@@ -2,7 +2,7 @@
     "education": [
         { 
             "id": 1,
-            "year": 25 09 2023 - 31 03 2024,
+            "year": 2024,
             "place": " Life Choices Academy",
             "description":  "Full-stack developer",
             "image": "https://i.ibb.co/WKGdnTF/download-3-lifechoices.png"
@@ -12,7 +12,7 @@
         },
         {
             "id": 2,
-            "year": 15 01 2023 - 30 06 2023,
+            "year": 2023,
             "place": "Codetelligence NPC",
              "description": " software development basics",
             "image": "https://i.ibb.co/sC4pm5g/download-4-code.jpg"
@@ -21,7 +21,7 @@
         },
         {
             "id": 3,
-            "year": 2013 - 2017,
+            "year": 2017,
             "description": "Matric",
             "place": "Harry Gwala s.s.s",
             "image": "https://i.ibb.co/RTLdPG5/download-logo-hg.jpg"
