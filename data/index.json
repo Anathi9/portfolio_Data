@@ -2,26 +2,27 @@
     "education": [
         { 
             "id": 1,
-            "year": 2023,
-            "description":  " I'm currently a student at Life Choices Academy. The academy has given me the opportunity to upskill. ",
+            "year": 25-09-2023 - 31-03-2024,
             "place": " Life Choices Academy",
+            "description":  "Full-stack developer",
             "image": "https://i.ibb.co/WKGdnTF/download-3-lifechoices.png"
+            
            
            
         },
         {
             "id": 2,
-            "year": 2023,
-            "description": "At Cotelligence I've studied from 14-01-23 to 30-06-23& I've gained software basics. Its an academy based in Cape flats offering software development skills ",
-            "place": "CodeTelligence Academy",
+            "year": 15-01-2023 - 30-06-2023,
+            "place": "Codetelligence NPC",
+             "description": " software development basics",
             "image": "https://i.ibb.co/sC4pm5g/download-4-code.jpg"
             
             
         },
         {
             "id": 3,
-            "year": 2017,
-            "description": " I have studied at Harry Gwala Secondary School from 2013 to 2017 and I passed my grade 12 my majors were Physics,Life science & Geography.",
+            "year": 2013 - 2017,
+            "description": "Matric",
             "place": "Harry Gwala s.s.s",
             "image": "https://i.ibb.co/RTLdPG5/download-logo-hg.jpg"
         
