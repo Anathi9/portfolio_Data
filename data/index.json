@@ -127,11 +127,11 @@
             "netlify": "https://anathi-keyboard.netlify.app/"
         },
         {
-            "name": "Netflix",
-            "description": " I built this website using HTML , CSS, Javascript, and Bootstrap5",
-            "image":"https://i.ibb.co/qyqbpmr/download-3-netflix.png",
-            "gitHub": "https://github.com/Anathi9/Netflix1.git",
-            "netlify": "https://stellar-croquembouche-00f605.netlify.app"
+            "name": "Capstone",
+            "description": " I built this ecommerce website using HTML , CSS, nodej.s, and Vuej.s",
+            "image":"https://i.ibb.co/7GkQKY8/th-id-OIP.jpg",
+            "gitHub": "",
+            "netlify": ""
         },
         {
             "name": "BMI",
