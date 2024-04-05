@@ -127,11 +127,11 @@
             "netlify": "https://anathi-keyboard.netlify.app/"
         },
         {
-            "name": "Capstone",
+            "name": "Kasi Eats",
             "description": " I built this ecommerce website using HTML , CSS, nodej.s, and Vuej.s",
-            "image":"https://i.ibb.co/7GkQKY8/th-id-OIP.jpg",
-            "gitHub": "",
-            "netlify": ""
+            "image":"https://i.ibb.co/khgfF2T/th-id-OIP.jpg",
+            "gitHub": "https://github.com/Anathi9/node-EOMP.git",
+            "netlify": "https://node-eomp-8ce51.web.app/"
         },
         {
             "name": "BMI",
