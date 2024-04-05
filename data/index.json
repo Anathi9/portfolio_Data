@@ -29,10 +29,26 @@
            
         }
        
-       
+    
        
        
     ],
+    "Work Expirience": [
+        {
+            "company": "Life choices Academy",
+            "position": "LC Intern",
+            "year": "2024"
+        },
+
+        {
+            "company": "Noxolo Xauka Primary school",
+            "position": "Education Assistant",
+            "year": "2020-2022"
+        }
+
+    ],
+            
+            
     "skills": [
         {
             "title": "HTML",
