@@ -80,6 +80,16 @@
             "title": "Node.JS",
             "Image": "https://i.ibb.co/JH1YGMF/download-10.jpg",
             "description": "I am proficient in node.js."
+        },
+         {
+            "title": "scrum principle",
+            "Image": "https://i.ibb.co/2ngpdzp/Screenshot-2024-04-30-161109.png",
+            "description": "I've earned my scrum badge showcasing team's collaborative effort and dedication."
+        },
+         {
+            "title": "Operating system basic",
+            "Image": "https://i.ibb.co/FHJVWQ5/operating-systems-basics.png",
+            "description": "I have succesfully completed the operating system basic."
         }
     ],
     "testimonials": [
